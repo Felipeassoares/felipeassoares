@@ -12,7 +12,11 @@ Em 2022, participei do projeto #Start da Capgemini, onde participei ativamente d
 
 Após esse projeto, participei de um treinamento na Impacta Tecnologia, onde me especializei em Full Stack Java + Angular, focando na parte front-end com TypeScript e JavaScript, além de reforçar meus conhecimentos em MySQL e MongoDB. Depois do curso, fui direcionado para trabalhar em uma instituição financeira, onde participei da construção de uma aplicação para auditoria do Bacen do zero, utilizando metodologias ágeis e arquitetura hexagonal, atuando tanto no back-end quanto no front-end.
 
-Atualmente, tenho experiência com Playwright e estou disponível para novas oportunidades na área de desenvolvimento (full stack, front-end, back-end ou QA). Meu próximo passo é realizar uma pós-graduação em desenvolvimento full stack e continuo estudando para avançar em minhas habilidades.
+Tenho experiência com Playwright e estou disponível para novas oportunidades na área de desenvolvimento (full stack, front-end, back-end ou QA). Meu próximo passo é realizar uma pós-graduação em desenvolvimento full stack e continuo estudando para avançar em minhas habilidades.
+
+Atualmente, estou cursando uma pós-graduação no IFSP em Gestão na Educação Profissional e Tecnológica, buscando unir minha experiência técnica com uma visão estratégica e de liderança.
+
+🚀 Sempre em busca de novos desafios, inovação e aprendizado contínuo.
 
 ## Tecnologias e Stack
 Aqui estão as tecnologias com as quais tenho experiência:
